@@ -9,7 +9,7 @@
   * Max: 1, 2, 3, 5, 6 
   * Avg: 1, 2, 3, 5, 6
 
-* Your program should generate ‘output.txt’ as follows:
+* My program should generate ‘output.txt’ as follows:
   * The min of [1, 2, 3, 5, 6] is 1. 
   * The max of [1, 2, 3, 5, 6] is 6. 
   * The avg of [1, 2, 3, 5, 6] is 3.4.
